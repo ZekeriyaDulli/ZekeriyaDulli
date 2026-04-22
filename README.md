@@ -1,11 +1,45 @@
 ### Hi there, I'm Zekeriya! 👋
 
-I'm a 3rd-year Software Engineering student passionate about solving real-world problems with code and diving deep into the emerging world of Artificial Intelligence. 
+I'm a 3rd-year Software Engineering student obsessed with building things that matter — intelligent systems, full-stack web apps, native mobile experiences, and everything in between. If it's hard and interesting, I'm probably already tinkering with it.
 
-* 🌱 **Currently working on:** `Z-Image-Turbo`, exploring local image generation models and ComfyUI workflows.
-* 💻 **Tech Stack:** Python, C++, Selenium, AI Agents (n8n), Local LLMs.
-* 🚀 **Learning:** Exploring the fundamentals of mobile application development.
-* 🌍 **Outside of tech:** Dreaming about traveling and exploring new corners of the world!
+I believe great software is built together. The open-source community is where I find inspiration, sharpen my skills, and give back — and I'm proud to be a part of it. 🌐
 
-#### 🛠️ What I Build
-I love creating practical, automation-driven tools. A recent favorite is a **Python/Selenium Automation Bot** that handles parallel downloading of high-resolution media directly from the terminal.
+---
+
+### 🚧 Currently Building
+
+* 📱 **Android Apps** — Crafting native Android experiences with **Kotlin**, focusing on clean architecture and smooth UX.
+* 🖥️ **Desktop Apps** — Building cross-platform desktop software with **Java**, bringing powerful tooling to the desktop.
+
+---
+
+### 🧠 AI & Machine Learning
+
+* Fine-tuned **DistilBERT** for multi-label text classification — routing user prompts to the right subset of **20 AI agents**.
+* Trained on **502 labelled prompts** using `BCEWithLogitsLoss`, achieving **Micro F1 = 0.87**.
+* Exploring **local LLMs**, **AI agent workflows** with n8n, and **ComfyUI** image generation pipelines.
+
+---
+
+### 💻 Tech Stack
+
+```
+Languages  → Python · C++ . Kotlin · Java · JavaScript
+Mobile     → Android (Kotlin) · Jetpack
+Desktop    → Java Swing / JavaFX
+Web        → Full-Stack JavaScript
+AI/ML      → PyTorch · HuggingFace · DistilBERT · n8n · Local LLMs
+Automation → Selenium · Bash scripting
+```
+
+---
+
+### 🛠️ What I Build
+
+From a **multi-label LLM router** that intelligently classifies prompts across 20 AI agents, to a **full-stack movie & TV discovery platform**, to **Python/Selenium bots** that automate high-resolution media downloads — I build tools that are practical, fast, and a little bit clever.
+
+---
+
+### 🌍 Beyond the Code
+
+When I'm not pushing commits, I'm dreaming about my next trip and exploring new corners of the world. 🗺️
